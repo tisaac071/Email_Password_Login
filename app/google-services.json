@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "324643919367",
+    "firebase_url": "https://isaacamooti-159606.firebaseio.com",
+    "project_id": "isaacamooti-159606",
+    "storage_bucket": "isaacamooti-159606.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324643919367:android:92a2f6db939b3a4d",
+        "android_client_info": {
+          "package_name": "com.zarkmedia.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324643919367-vrjvlfneankcu24pc9995q6b3nrbcksn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zarkmedia.login",
+            "certificate_hash": "8c3c9203bc645ee78356d6b70425a2e7b2bafa1f"
+          }
+        },
+        {
+          "client_id": "324643919367-452p8jpf95fvjftfutthtuejs489v0f2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxRTEa3Hr8ZhlKYb0M1y6hPTSdrZ7V4Vw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324643919367-452p8jpf95fvjftfutthtuejs489v0f2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
